@@ -155,7 +155,9 @@ to automate:
 ## Research Backing
 
 This project is developed under the FAST NUCES Decision Support
-Group. Core technical approaches draw from:
+Group.It is shortlisted by NIC peshawar cohort 16 startup incubation
+
+Core technical approaches draw from:
 
 - GPT-4V(ision) as a generalist web agent (Zheng et al., 2024)
 - Reflexion: language agents with verbal reinforcement learning
