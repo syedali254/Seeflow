@@ -172,5 +172,3 @@ at this stage.
 ```
 
 ---
-
-This gives you a professional repo even with zero deployed code. Add a `/docs` folder with one architecture diagram image and it'll look solid. Want me to also write the commit message and repo description for GitHub?
